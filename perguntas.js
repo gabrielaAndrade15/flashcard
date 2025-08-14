@@ -1,0 +1,10 @@
+criaCartao('Maquiagem', 'O que é primer?', 'É um produto usado antes da base para preparar a pele.');
+criaCartao('Maquiagem', 'Qual a função do pó translúcido?', 'Fixar a maquiagem e reduzir brilho.');
+criaCartao('Maquiagem', 'O que é contorno facial?', 'Técnica para criar sombras e definir traços.');
+criaCartao('Maquiagem', 'Para que serve o iluminador?', 'Dar brilho e realçar áreas do rosto.');
+criaCartao('Maquiagem', 'O que é blush?', 'Produto usado para dar cor saudável às bochechas.');
+criaCartao('Maquiagem', 'Para que serve o delineador?', 'Definir o formato dos olhos.');
+criaCartao('Maquiagem', 'O que é máscara de cílios?', 'Produto para alongar e dar volume aos cílios.');
+criaCartao('Maquiagem', 'Como evitar que o batom borre?', 'Usar lápis labial e aplicar camadas finas.');
+criaCartao('Maquiagem', 'O que é fixador de maquiagem?', 'Spray que ajuda a prolongar a duração da make.');
+criaCartao('Maquiagem', 'Qual a função da base?', 'Uniformizar o tom e a textura da pele.');
